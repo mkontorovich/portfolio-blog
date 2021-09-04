@@ -1,3 +1,3 @@
 # Portfolio blog
 
-The things that I'm interested in, I write about. I also include my projects here and a bit about me.
+I write about my interests, which include software development and art. I also include my projects here and a bit about me.

@@ -1,4 +1,4 @@
-{% block sidebar %}
+{% block sidebar %} {% load static %}
 
 <style>
         .card{
@@ -12,6 +12,9 @@
 <div class="card my-4">
         <h5 class="card-header">About Me</h5>
     <div class="card-body">
+
+        <img src="{% static 'images/mk-portrait.jpg' %}" width=100% height=100% alt="Portrait">
+        <p></p>
         <p class="card-text">
           Chicago-based full-stack developer.
         </p>
