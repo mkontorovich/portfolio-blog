@@ -8,24 +8,21 @@ body {
     box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.1);
 }
 
-.btn-danger {
-    color: #fff;
-    background-color: #2d8659; /*2d8659 */
-    border-color: #26734d; /*26734d */
-}
-
-.masthead {
-    background: #343a40; /* 339966 */
-    height: auto;
-    padding-bottom: 15px;
-    box-shadow: 0 16px 48px #E3E7EB;
-    padding-top: 10px;
-}
-
 .head_text {
     color: white;
 }
 
 .card {
     box-shadow: 0 16px 48px #E3E7EB;
+}
+
+.name_text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: #777;
+}
+
+.nav_text {
+    font-weight: bold;
 }
