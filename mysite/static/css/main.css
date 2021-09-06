@@ -4,6 +4,7 @@ body {
 
 .shadow {
     box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.1);
+    color: blue;
 }
 
 .card {
@@ -21,4 +22,11 @@ body {
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
+}
+
+.blog_post_title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: red;
 }
